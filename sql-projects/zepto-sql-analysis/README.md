@@ -78,6 +78,12 @@ A small number of categories contribute a large share of total revenue, highligh
 - Basic data cleaning  
 
 ---
+## ▶️ How to Run This Project
+1. Import the dataset into MySQL Workbench  
+2. Open `zepto_sql_analysis.sql`  
+3. Run queries section by section
+
+---
 
 ## 🚀 Key Learnings
 - Writing business-focused SQL queries  
