@@ -1,5 +1,8 @@
 # Zepto SQL Data Analysis Project
 
+🚀 End-to-end SQL analysis of a retail dataset inspired by Zepto, focused on revenue concentration, pricing strategy, discount optimization, and inventory insights.
+
+
 ## 📌 Project Overview
 This project analyzes a retail/e-commerce dataset inspired by Zepto using SQL.  
 The goal is to perform data cleaning, exploratory analysis, and answer business questions related to pricing, discounts, inventory, and category-level performance.
